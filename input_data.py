@@ -1,0 +1,21 @@
+
+# BEST
+NUMBER_OF_DATA = 100
+NOISE = 2
+NEURAL_NUMBER = 22
+
+# Like cheese
+# NUMBER_OF_DATA = 30
+# NOISE = 3
+# NEURAL_NUMBER = 12
+
+# Standard
+# NUMBER_OF_DATA = 300
+# NOISE = 0.30
+# NEURAL_NUMBER = 10
+
+# NUMBER_OF_DATA = 200
+# NOISE = 0.2
+# NEURAL_NUMBER = 3
+
+# vladkoz@mail.ru
